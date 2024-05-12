@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		012570562BECC452001F1D50 /* MakeLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 012570552BECC452001F1D50 /* MakeLabel.swift */; };
 		01CA66372B95A63F00D4ACAD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01CA66362B95A63F00D4ACAD /* AppDelegate.swift */; };
 		01CA66392B95A63F00D4ACAD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01CA66382B95A63F00D4ACAD /* SceneDelegate.swift */; };
 		01CA663B2B95A63F00D4ACAD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01CA663A2B95A63F00D4ACAD /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		012570552BECC452001F1D50 /* MakeLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeLabel.swift; sourceTree = "<group>"; };
 		01CA66332B95A63F00D4ACAD /* UISwitch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UISwitch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		01CA66362B95A63F00D4ACAD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		01CA66382B95A63F00D4ACAD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				01CA66362B95A63F00D4ACAD /* AppDelegate.swift */,
 				01CA66382B95A63F00D4ACAD /* SceneDelegate.swift */,
 				01CA663A2B95A63F00D4ACAD /* ViewController.swift */,
+				012570552BECC452001F1D50 /* MakeLabel.swift */,
 				01CA663C2B95A63F00D4ACAD /* Main.storyboard */,
 				01CA663F2B95A64000D4ACAD /* Assets.xcassets */,
 				01CA66412B95A64000D4ACAD /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				012570562BECC452001F1D50 /* MakeLabel.swift in Sources */,
 				01CA663B2B95A63F00D4ACAD /* ViewController.swift in Sources */,
 				01CA66372B95A63F00D4ACAD /* AppDelegate.swift in Sources */,
 				01CA66392B95A63F00D4ACAD /* SceneDelegate.swift in Sources */,
